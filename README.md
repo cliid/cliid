@@ -8,11 +8,11 @@ Mail : [me@cli.id](mailto:me@cli.id)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid&theme=tokyonight)<br/>
 
 ### Repo
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=clid0&repo=kikkClient&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/kikkClient)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=clid0&repo=kikkServer&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/kikkServer)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=clid0&repo=dusttrap&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/dusttrap)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=clid0&repo=IAI&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/IAI)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=clid0&repo=cliid&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=kikkClient&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/kikkClient)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=kikkServer&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/kikkServer)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=dusttrap&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/dusttrap)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=IAI&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/IAI)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=cliid&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid)
 
 ## My Things
 [Youtube](https://www.youtube.com/cliid)  
