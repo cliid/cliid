@@ -3,7 +3,7 @@
 Discord : [Cliid](https://discord.com/users/643116087919116298)  
 Mail : [me@cli.id](mailto:me@cli.id)
 
-[![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true&theme=tokyonight)](https://github.com/clid0)
+[![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true&theme=tokyonight)](https://github.com/cliid)
 ### Top Language
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid&theme=tokyonight)<br/>
 
