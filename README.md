@@ -8,7 +8,7 @@ Mail : [me@cli.id](mailto:me@cli.id)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid&theme=tokyonight)<br/>
 
 ### Repo
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=pryst&repo=pryst&cache_seconds=86400&theme=tokyonight)](https://github.com/pryst/pryst)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=pryst&cache_seconds=86400&theme=tokyonight)](https://github.com/jitcijk/pryst)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=kikkClient&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/kikkClient)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=kikkServer&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/kikkServer)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=dusttrap&cache_seconds=86400&theme=tokyonight)](https://github.com/cliid/dusttrap)
