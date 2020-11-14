@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello there! I'm the Lead Developer of the language ![pryst](https://github.com/jitcijk/pryst), a lover of elegant Java code and some crazy C++ code.
+Hello there! I'm the Lead Developer of the language [pryst](https://github.com/jitcijk/pryst), a lover of elegant Java code and some crazy C++ code.
 
 Mail : [me@cli.id](mailto:me@cli.id)
 
