@@ -2,7 +2,7 @@
 
 Hello there! I'm the Lead Developer of the language [pryst](https://github.com/jitcijk/pryst), a lover of elegant Java code and some crazy C++ code.
 
-Mail : [me@cli.id](mailto:me@cli.id)
+Mail To : [me@cli.id](mailto:me@cli.id)
 
 [![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true)](https://github.com/cliid)
 ### Top Language
