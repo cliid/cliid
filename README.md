@@ -11,6 +11,8 @@ Mail To : [me@cli.id](mailto:me@cli.id)
 ### Repo
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=pryst&cache_seconds=86400)](https://github.com/jitcijk/pryst)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=dusttrap&cache_seconds=86400)](https://github.com/cliid/dusttrap)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=ASKY-Unity&cache_seconds=86400)](https://github.com/cliid/ASKY-Unity)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=design_pattern&cache_seconds=86400)](https://github.com/cliid/design_pattern)
 
 ## My Stuff
 [Youtube](https://www.youtube.com/cliid)
