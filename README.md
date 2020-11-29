@@ -1,4 +1,4 @@
-### Hi there, I'm Jiwu - aka [cliid][https://cli.id] 👋
+### Hi there, I'm Jiwu - aka [cliid](https://cli.id) 👋
 
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://cli.id)
 
