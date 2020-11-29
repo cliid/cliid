@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 Hello there! I'm the Lead Developer of the language [pryst](https://github.com/jitcijk/pryst), a total lover of elegant Java code and some crazy C++ code.
-- 🔭 I just launched an app: ![Lyfer](https://lyfer.jitcijk.org)
+- 🔭 I just launched an app: [lyfer](https://lyfer.jitcijk.org)
 - 🌱 I’m currently learning React, Javascript and some Design Patterns 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
