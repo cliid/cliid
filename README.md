@@ -1,35 +1,31 @@
 # Hi there 👋
 
-Hello there! I'm the Lead Developer of the language [pryst](https://github.com/jitcijk/pryst), a total lover of elegant Java code and some crazy C++ code.
+Hello there! I'm a total lover of elegant Java/C# code, VIM-ish C++ code and functional Javascript code.
 - 🔭 I just launched an app: [lyfer](https://lyfer.jitcijk.org)
-- 🌱 I’m currently learning React, Javascript and some Design Patterns 🤣
+- 🌱 I’m currently learning React Native and some Design Patterns 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy to draw anime characters.
 
 E-mail : [me@cli.id](mailto:me@cli.id)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-cliid.vercel.app/api/spotify-playing" alt="cliid Spotify Playing" width="350" />](https://open.spotify.com/user/)
-
-### Github Status
+## Github Status
 
 [![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true)](https://github.com/cliid)
 
 
-### Top Languages I Use
+## Top Languages I Use
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid)
 
-### Repo
+## Repo
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=pryst&cache_seconds=86400)](https://github.com/jitcijk/pryst)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=lyfer&cache_seconds=86400)](https://github.com/jitcijk/lyfer)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=schedis&cache_seconds=86400)](https://github.com/jitcijk/schedis)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=dusttrap&cache_seconds=86400)](https://github.com/cliid/dusttrap)
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=design_pattern&cache_seconds=86400)](https://github.com/cliid/design_pattern)
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
