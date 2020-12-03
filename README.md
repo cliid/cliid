@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://cli.id)
 
-## I'm a total lover of elegant C# code, VIM-ish C++ code and functional Javascript code!
+## I'm a total lover of elegant Java code, VIM-ish C++ code and functional Javascript code!
 
 - 🔭 I just launched an app: [lyfer](https://lyfer.jitcijk.org)
 - 🌱 I’m currently learning React Native and some Design Patterns 🤣
