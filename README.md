@@ -44,14 +44,6 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </br>
 
-### Repo
-
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=pryst&cache_seconds=86400)](https://github.com/jitcijk/pryst)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=lyfer&cache_seconds=86400)](https://github.com/jitcijk/lyfer)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=jitcijk&repo=schedis&cache_seconds=86400)](https://github.com/jitcijk/schedis)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=dusttrap&cache_seconds=86400)](https://github.com/cliid/dusttrap)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=cliid&repo=design_pattern&cache_seconds=86400)](https://github.com/cliid/design_pattern)
-
 ### Connect with me!
 
 [Youtube](https://www.youtube.com/cliid)
