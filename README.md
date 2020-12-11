@@ -54,3 +54,5 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 [Math StackExchange](https://math.stackexchange.com/users/820931/hackerj)
 
 [Discord](https://discord.com/users/643116087919116298)  
+
+![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
