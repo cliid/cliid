@@ -2,26 +2,34 @@
 
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://cli.id)
 
-## I'm a total lover of elegant Java code, VIM-ish C++ code and functional Javascript code!
+# 💻 Development Languages:
+
+### Things I code with :zap:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
+
+### Things I am Learning :pencil2:
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C-Sharp)
+
+### Things I am interested in :mag:
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
+
+# Fun Fact: I'm a total lover of elegant Java code, VIM-ish C++ code and functional Javascript code!
 
 - 🔭 I just launched an app: [lyfer](https://lyfer.jitcijk.org)
-- 🌱 I’m currently learning React Native and some basic stuff about the Operating System 🤣
+- 🌱 I’m currently learning `React Native`, `Typescript` and some basic stuff about `the Operating System` 🤣
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I enjoy to play League.
+- 🥅 2020 Goals: Contribute to more Open Source projects.
 
 E-mail : [me@cli.id](mailto:me@cli.id)
 
-### Github Status
-
-[![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true)](https://github.com/cliid)
-
-
-### Top Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid)
-
-### My Tech stack:
+# My Tech stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,7 +49,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </br>
 
-### Connect with me!
+# 📫 How to reach me:
 
 [Youtube](https://www.youtube.com/cliid)
 
@@ -56,3 +64,8 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 [Discord](https://discord.com/users/643116087919116298)  
 
 ![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
+
+# My statistics:
+
+[![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true)](https://github.com/cliid)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid)
