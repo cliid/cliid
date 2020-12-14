@@ -34,10 +34,10 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 
 ## 📫 How to reach me:
 
-[![JavaScript](https://img.shields.io/badge/-Youtube-000000?style=flat-square&logo=youtube)](https://www.youtube.com/cliid)
-[![Twitter](https://img.shields.io/badge/-Twitter-012F50?style=flat-square&logo=twitter)](https://twitter.com/cliid)
-[![Patreon](https://img.shields.io/badge/-Patreon-1D282D?style=flat-square&logo=patreon)](https://patreon.com/cliid?fan_landing=true)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-BCBBBB?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/12069275/hackerj)
+[![JavaScript](https://img.shields.io/badge/-Youtube-000000?style=flat-square&logo=youtube&logoColor=red)](https://www.youtube.com/cliid)
+[![Twitter](https://img.shields.io/badge/-Twitter-012F50?style=flat-square&logo=twitter&logoColor=08A0E9)](https://twitter.com/cliid)
+[![Patreon](https://img.shields.io/badge/-Patreon-1D282D?style=flat-square&logo=patreon&logoColor=E64413)](https://patreon.com/cliid?fan_landing=true)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-BCBBBB?style=flat-square&logo=stackoverflow&logoColor=EF8236)](https://stackoverflow.com/users/12069275/hackerj)
 
 [Math StackExchange](https://math.stackexchange.com/users/820931/hackerj)
 
