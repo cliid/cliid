@@ -1,5 +1,9 @@
-<h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a></h1>
+<h1 align="center">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a></h1>
 
+<p>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  
+</p>
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://cli.id)
 
 ### I'm a total lover of elegant Java code, Hacky C++ code and functional Javascript code!
