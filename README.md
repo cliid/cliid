@@ -34,7 +34,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 
 ## 📫 How to reach me:
 
-[Youtube](https://www.youtube.com/cliid)
+[![JavaScript](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/cliid)
 
 [Twitter](https://twitter.com/cliid)
 
