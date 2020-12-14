@@ -23,7 +23,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 ### Things I am Learning :pencil2:
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![C#](https://img.shields.io/badge/-C#-239120?style=flat-square&logo=C-Sharp)
+![C#](https://img.shields.io/badge/-C\#-239120?style=flat-square&logo=C-Sharp)
 
 ### Things I am interested in :mag:
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
