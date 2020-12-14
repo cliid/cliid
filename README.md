@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://cli.id)
 
-## I'm a total lover of elegant Java code, Hacky C++ code and functional Javascript code!
+### I'm a total lover of elegant Java code, Hacky C++ code and functional Javascript code!
 
 - 🔭 I just launched an app: [lyfer](https://lyfer.jitcijk.org)
 - 🌱 I’m currently learning `React Native`, `Typescript` and some basic stuff about `the Operating System` 🤣
@@ -11,7 +11,7 @@
 
 E-mail : [me@cli.id](mailto:me@cli.id)
 
-# 💻 Development Languages:
+## 💻 Development Languages:
 
 ### Things I code with :zap:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,7 +29,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 
-# My Tech stack:
+## My Tech stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -49,7 +49,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </br>
 
-# 📫 How to reach me:
+## 📫 How to reach me:
 
 [Youtube](https://www.youtube.com/cliid)
 
@@ -65,7 +65,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 
 ![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
-# My statistics:
+## My statistics:
 
 [![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true)](https://github.com/cliid)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid)
