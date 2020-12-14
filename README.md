@@ -1,10 +1,20 @@
-<h1 align="center">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm cliid 👨‍💻</h1>
+<h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm cliid 👨‍💻</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cliid)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/cliid)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/643116087919116298)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hackrj)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12069275/hackerj)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cliid)
+[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)]()
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/cliid?fan_landing=true)
+
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://cli.id)
+
+![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
 ### I'm a total lover of elegant Java code, Hacky C++ code and functional Javascript code!
 
@@ -35,19 +45,6 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 ### Things I am interested in :mag:
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=Flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
-
-## 📫 How to reach me:
-
-[![JavaScript](https://img.shields.io/badge/-Youtube-000000?style=flat-square&logo=youtube&logoColor=red)](https://www.youtube.com/cliid)
-[![Twitter](https://img.shields.io/badge/-Twitter-012F50?style=flat-square&logo=twitter&logoColor=08A0E9)](https://twitter.com/cliid)
-[![Patreon](https://img.shields.io/badge/-Patreon-1D282D?style=flat-square&logo=patreon&logoColor=E64413)](https://patreon.com/cliid?fan_landing=true)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-BCBBBB?style=flat-square&logo=stackoverflow&logoColor=EF8236)](https://stackoverflow.com/users/12069275/hackerj)
-
-[Math StackExchange](https://math.stackexchange.com/users/820931/hackerj)
-
-[Discord](https://discord.com/users/643116087919116298)  
-
-![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
 ## My statistics:
 
