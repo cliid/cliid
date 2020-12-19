@@ -29,7 +29,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 ## 💻 Development Languages:
 
 ### Things I code with :zap:
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-1F232A?style=flat-square&logo=React&logoColor=white)
