@@ -50,5 +50,5 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 
 ## My statistics:
 
-[![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true)](https://github.com/cliid)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid)
+[![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true&layout=compact&theme=dark)](https://github.com/cliid)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid&layout=compact&theme=dark)
