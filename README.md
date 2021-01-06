@@ -20,9 +20,9 @@
 ### I'm a total lover of elegant Java code, Hacky C++ code and functional Javascript code!
 
 - 🔭 I just launched an app: [lyfer](https://lyfer.jitcijk.org)
-- 🌱 I’m currently learning `React Native`, `Typescript` and some basic stuff about `the Operating System` 🤣
+- 🌱 I’m currently learning `UI/UX skills`, `Tailwindcss`, `Next.js` 🤣
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute to more Open Source projects, Get a good GPA.
+- 🥅 2021 Goals: Get a good GPA, make <a href="https://seven.wiki/">seven.wiki</a>, Get a good score in SSAT (Secondary School Admission Test)
 
 E-mail : [me@cli.id](mailto:me@cli.id)
 
