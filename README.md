@@ -37,7 +37,7 @@ E-mail : [me@cli.id](mailto:me@cli.id)
 ### Things I code with :zap:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-4dc0b5?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-4dc0b5?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
