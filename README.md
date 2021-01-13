@@ -26,11 +26,6 @@
 
 E-mail : [me@cli.id](mailto:me@cli.id)
 
-## 🥞 Core Founding Member of Dazzle Inc. <a href="https://dazzle.works">[Website]</a> <a href="https://github.com/dazzleofficial">[Github]</a>
-
-+ I do frontend development and other stuff too. --> Check out <a href="https://dazzle.works/">dazzle.works</a>.
-+ **Working On:** Developing frontend skin for <a href="https://seven.wiki/">seven.wiki</a>, A dev-friendly tech wiki with comfortable UI/UX and more!
-
 ## 💻 Development Languages:
 
 ### Things I code with :zap:
