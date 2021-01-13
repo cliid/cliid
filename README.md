@@ -22,7 +22,7 @@
 - 🔭 I just launched an app: [lyfer](https://lyfer.jitcijk.org)
 - 🌱 I’m currently learning `UI/UX skills`, `Tailwindcss`, `Next.js` 🤣
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Get a good GPA, develop <a href="https://seven.wiki/">seven.wiki</a>'s frontend skin, Get a good score in SSAT (Secondary School Admission Test)
+- 🥅 2021 Goals: Get a good GPA, Get a good score in SSAT (Secondary School Admission Test)
 
 E-mail : [me@cli.id](mailto:me@cli.id)
 
