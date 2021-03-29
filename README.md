@@ -19,7 +19,7 @@
 
 ### I'm a total lover of elegant Java code, Hacky C++ code and functional Javascript code!
 
-- 🔭 Doing a private project: ||$#@JDS||
+- 🔭 Doing a private project
 - 🌱 I’m currently learning `Competitive Programming` 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Get a good GPA, Get a good score in SSAT (Secondary School Admission Test), USACO, KOI, NYPC, ...
