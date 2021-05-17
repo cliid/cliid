@@ -28,7 +28,7 @@ E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle
 ## 💻 Programming Languages...
 
 ### Things I code with :zap:
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) (Homeland.)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white): (Homeland.)\n
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc) (A Nice Idealistic, Magnificent, Effective, Pretty Fast, Powerful Language.)
 ![Node.JS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) (Node.JS: teh rly scalabel fraemwork.)
 ![Next.JS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) (Next.JS: For the Next Generation, you gotta use Next.JS)
