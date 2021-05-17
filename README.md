@@ -17,17 +17,17 @@
 
 ![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
-### I'm a total lover of elegant Java code, Hacky C++ code and functional Javascript code!
+### I'm a total lover of Hacky C++ code and Beautiful TypeScript code!
 
-- 🔭 Making an **interesting** thing...
-- 🌱 Practicing `Dynamic Programming` in `Competitive Programming` 🤣
+- 🔭 Making some interesting things...
+- 🌱 Practicing `Tree DP` in `Competitive Programming` 🤣
 - 🥅 2021 Goals: Get a good GPA, Get >2350 in SSAT (Secondary School Admission Test) and USACO **Gold**.
 
 E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle.works)
 
 ## 💻 Programming Languages...
 
-### Things I code with :zap:
+### Things I code with 💻
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) (Homeland.)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc) (A Nice Idealistic, Magnificent, Effective, Pretty Fast, Powerful Language.)
@@ -40,7 +40,7 @@ E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle
 
 ![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=React&logoColor=white) (React > Vue > Angular > Angular.JS > JQuery > HTML)
 
-### Things I know but don't code with 🤯
+### Things I know but don't code with 📘
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white) (Java... is production-ready, right? But... yeah, that's all. BOILERPLATE!!)
 
