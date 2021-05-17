@@ -25,7 +25,7 @@
 
 E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle.works)
 
-## [My opinion on Programming Languages](programming-langs-opinion.md)
+## [Opinion on Programming Languages](programming-langs-opinion.md) (*Offensive & Very biased.*)
 
 ## [Resume](resume.md)
 
