@@ -1,14 +1,12 @@
 <h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm cliid 👨‍💻</h1>
 
-### I'm a total lover of Hacky C++ code and Beautiful TypeScript code!
+### I'm co-founder of @dazzleofficial. Loves C++ and TypeScript.
 
-- 🔭 Making some interesting things...
-- 🌱 Practicing `Tree DP` in `Competitive Programming` 🤣
-- 🥅 2021 Goals: Get a good GPA, Get >2350 in SSAT (Secondary School Admission Test) and USACO **Gold**.
+- 🔭 Making interesting things...
+- 🌱 Practicing `Segment Tree` in `Competitive Programming` 🤣
+- 🥅 2021 Goals: 1. Good GPA, 2. >2350 in SSAT. 3. Become IOI trainee. 4. KOI Final **Gold** 5. USACO **Gold**.
 
 E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle.works)
-
-## [Opinion on Programming Languages](programming-langs-opinion.md) (*Offensive & Very biased.*)
 
 ## [Resume](resume.md)
 
@@ -32,3 +30,5 @@ E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/cliid?fan_landing=true)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://cli.id)
+
+### [Opinion on Programming Languages](programming-langs-opinion.md) (*Very biased.*)
