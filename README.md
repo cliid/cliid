@@ -4,7 +4,7 @@
 
 - 🔭 Making interesting things...
 - 🌱 Practicing `Segment Tree` in `Competitive Programming` 🤣
-- 🥅 2021 Goals: 1. Good GPA, 2. >2350 in SSAT, 3. Become IOI trainee, 4. KOI Finals **Gold**, 5. USACO **Gold**.
+- 🥅 2021 Goals: 1. Good GPA, 2. >2350 in SSAT, 3. KOI Finals **Gold**, 5. USACO **Gold**.
 
 E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle.works)
 
