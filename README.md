@@ -3,8 +3,8 @@
 ### I'm co-founder of @dazzleofficial. Loves C++ and TypeScript.
 
 - 🔭 Making interesting things...
-- 🌱 Practicing `Segment Tree` in `Competitive Programming` 🤣
-- 🥅 2021 Goals: 1. Good GPA, 2. >2350 in SSAT, 3. KOI Finals **Gold**, 5. USACO **Gold**.
+- 🌱 Practicing `Sparse Tables and Sqrt Decomposition / Mo's algorithm, Bellman-Ford and Floyd-Warshall` in `Competitive Programming` 🤣
+- 🥅 2021 Goals: 1. Good GPA, 2. >2350 in SSAT, 3. USACO **Gold**.
 
 E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle.works)
 
