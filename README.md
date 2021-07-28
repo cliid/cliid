@@ -6,7 +6,7 @@
 - 🌱 Practicing `Sparse Tables and Sqrt Decomposition / Mo's algorithm, Bellman-Ford and Floyd-Warshall` in `Competitive Programming` 🤣
 - 🥅 2021 Goals: 1. Good GPA, 2. >2350 in SSAT, 3. USACO **Gold**.
 
-E-mail : [me@cli.id](mailto:me@cli.id), [cliid@dazzle.works](mailto:cliid@dazzle.works)
+E-mail : [cliid@dazzle.works](mailto:cliid@dazzle.works) (for work), [cliid@protonmail.com](mailto:cliid@protonmail.com) (personal)
 
 ## [Resume](resume.md)
 
