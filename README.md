@@ -1,6 +1,6 @@
 <h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm cliid 👨‍💻</h1>
 
-### I'm co-founder of @dazzleofficial. Loves C++ and TypeScript.
+### Co-founder of @dazzleofficial. Loves C++ and TypeScript.
 
 - 🔭 Making interesting things...
 - 🌱 Practicing `Sparse Tables and Sqrt Decomposition / Mo's algorithm, Bellman-Ford and Floyd-Warshall` in `Competitive Programming` 🤣
