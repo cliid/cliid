@@ -8,9 +8,7 @@
 
 ### Co-founder of @dazzleofficial. Loves C++ and TypeScript.
 
-- 🔭 Making interesting things...
-- 🌱 Practicing `Sparse Tables and Sqrt Decomposition / Mo's algorithm, Bellman-Ford and Floyd-Warshall` in `Competitive Programming` 🤣
-- 🥅 2021 Goals: 1. Good GPA, 2. >2350 in SSAT, 3. USACO **Gold**.
+- 🌱 Practicing `Sparse Tables and Sqrt Decomposition / Mo's algorithm, Bellman-Ford and Floyd-Warshall`
 
 E-mail : [cliid@dazzle.works](mailto:cliid@dazzle.works) (for work), [cliid@protonmail.com](mailto:cliid@protonmail.com) (personal)
 
