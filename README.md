@@ -1,4 +1,6 @@
 <h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm cliid 👨‍💻</h1>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cliid)](https://solved.ac/cliid)
+![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
 ### Co-founder of @dazzleofficial. Loves C++ and TypeScript.
 
@@ -12,11 +14,8 @@ E-mail : [cliid@dazzle.works](mailto:cliid@dazzle.works) (for work), [cliid@prot
 
 ## My statistics:
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cliid)](https://solved.ac/cliid)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cliid)](https://solved.ac/cliid)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cliid)](https://solved.ac/cliid)
 [![cliid's Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true&layout=compact&theme=dark)](https://github.com/cliid)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliid&layout=compact&theme=dark)
-![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
 ### [Opinion on Programming Languages](programming-langs-opinion.md) (*Very biased.*)
