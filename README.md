@@ -1,4 +1,5 @@
-<h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm cliid 👨‍💻</h1>
+<h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;" /></a> I'm cliid 👨‍💻</h1>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cliid)](https://solved.ac/cliid)
 ![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
