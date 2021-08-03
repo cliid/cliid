@@ -8,7 +8,9 @@
 
 ### Co-founder of @dazzleofficial. Loves C++ and TypeScript.
 
-- 🌱 Practicing `Sparse Tables and Sqrt Decomposition / Mo's algorithm, Bellman-Ford and Floyd-Warshall`
+- ✏️️ Practicing `Lazy Propagation Segment Trees / Persistent Segment Trees`
+- 🌱 Learning `Sparse Tables, Sqrt Decomposition / Mo's algorithm and FFT`
+- 📖 Reading `Competitive Programmer's Handbook` written by `Antti Laaksonen`
 
 E-mail : [cliid@dazzle.works](mailto:cliid@dazzle.works) (for work), [cliid@protonmail.com](mailto:cliid@protonmail.com) (personal)
 
