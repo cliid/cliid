@@ -8,7 +8,7 @@
 
 ### Co-founder of @dazzleofficial. Loves C++ and TypeScript.
 
-- ✏️️ Practicing `Lazy Propagation Segment Trees / Persistent Segment Trees`
+- ✏️️ Practicing `Lazy Propagation Segment Trees / Persistent Segment Trees` on `cses.fi/problemset`
 - 🌱 Learning `Sparse Tables, Sqrt Decomposition / Mo's algorithm and FFT`
 - 📖 Reading `Competitive Programmer's Handbook` written by `Antti Laaksonen`
 
