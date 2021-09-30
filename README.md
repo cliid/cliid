@@ -1,4 +1,16 @@
-<h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;" /></a> I'm cliid 👨‍💻</h1>
+<h1 align="left">
+  <i>
+    ['Hello', 'Bonjour', 'Hallo', 'こんにちは', '你好', '안녕하세요']
+  </i>
+  &nbsp;
+  there
+  &nbsp;
+  <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;" /></a>
+  &nbsp;
+  I&apos;m
+  &nbsp;cliid
+  &nbsp;👨‍💻
+</h1>
 
 [![Codeforces Profile](https://cp-logo.vercel.app/codeforces/cliid?logo=true)](https://codeforces.com/profile/cliid)
 [![Atcoder Profile](https://cp-logo.vercel.app/atcoder/cliid?logo=true)](https://atcoder.jp/users/cliid)
