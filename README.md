@@ -1,8 +1,5 @@
 <h1 align="left">
-  <i>
-    ['Hello', 'Bonjour', 'Hallo', 'こんにちは', '你好', '안녕하세요']
-  </i>
-  there
+  Hello there
   <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;" /></a>
   I'm cliid 🍥
 </h1>
