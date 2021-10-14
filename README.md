@@ -7,7 +7,7 @@ You can see my travel map in here: [Jiwu's travel map](https://www.google.com/ma
 
 I once lived in Evanston, IL, and now I'm in Seoul, Korea, as you can see in my profile.
 
-[This](https://cliid.dev) is my website. Everyone has their own website, right?
+[This](https://cliid.dev) is my website.<br />
 I built it with React, Next.JS, TailwindCSS, Prisma, Fuse.js, Next-PWA, NextAuth, and Contentlayer.
 
 By the way, I also enjoy competitive programming.
