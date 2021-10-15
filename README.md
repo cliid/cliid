@@ -8,16 +8,15 @@ You can see my travel map in here: [Jiwu's travel map](https://www.google.com/ma
 I once lived in Evanston, IL, and now I'm in Seoul, Korea, as you can see in my profile.
 
 [This](https://cliid.dev) is my website.<br />
-I built it with React, Next.JS, TailwindCSS, Prisma, Fuse.js, Next-PWA, NextAuth, and Contentlayer.
+I built it with `@next`, `preact`, `tailwindcss`, `@prisma/client`, `fuse.js`, `next-pwa`, `next-auth`, and `contentlayer`.
 
 By the way, I also enjoy competitive programming.
 
-- ✏️️ Thinking how `anarcho-capitalism` (or also known as `free market capitalism`) can improve our society using cost-benefit analysis.
-- 🌱 Learning how to build a blazingly fast, yet feature-rich web application using Next.JS.
-  - Also learning various methods of web app optimization.
+- ✏️️ Thinking how `free market capitalism` can improve our society in terms of cost-benefit analysis.
+- 🌱 Learning various methods of web optimizations including SEO optimization, FCP / LCP / TTFB optimization, and more.
 - 📖 Reading `The Machinery of Freedom` written by `David Friedman`
 
-Here's my list of e-mails: <br />
+Here are my list of e-mails: <br />
 [cliid@dazzle.works](mailto:cliid@dazzle.works) is for work,<br />
 [cliid@pm.me](mailto:cliid@pm.me) is my personal email. (pm.me is a shorthand for protonmail.com)
 
