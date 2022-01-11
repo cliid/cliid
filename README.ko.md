@@ -44,7 +44,7 @@
 
 **전체 포트폴리오는 [cliid.dev](https://cliid.dev) 에서 둘러보실 수 있습니다.**
 
-### 연락 방법
+### ☎️ 연락 방법
 
 업무용 E-mail: **[cliid@dazzle.works](mailto:cliid@dazzle.works)**<br/>
 개인 E-mail: **[cliid@pm.me](mailto:cliid@pm.me)**<br/>
