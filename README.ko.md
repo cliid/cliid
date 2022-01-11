@@ -2,6 +2,8 @@
 
 저는 프론트엔드를 좋아하는 프로그래머, **cliid**라고 합니다.
 
+**[[English ver.]](/README.md)**
+
 #### 약력
 
 - 🧑‍🎓 **[Hankuk Academy of Foreign Studies](http://hafs.hs.kr/?main) 18th**
