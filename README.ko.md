@@ -4,7 +4,7 @@
 
 #### 약력
 
-- 🧑‍🎓 **[Hankuk Academy of Foreign Studies](http://hafs.hs.kr) 18th**
+- 🧑‍🎓 **[Hankuk Academy of Foreign Studies](http://hafs.hs.kr/?main) 18th**
 - 🏢 **[@dazzleofficial](https://dazzle.works) 공동창업자**
 - 🏅 **KOI 2021 중등부 1차 은상, 2차 동상**
 #### 관심사
