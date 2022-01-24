@@ -51,6 +51,6 @@
 업무용 E-mail: **[cliid@dazzle.works](mailto:cliid@dazzle.works)**<br/>
 개인 E-mail: **[cliid@pm.me](mailto:cliid@pm.me)**<br/>
 
-GPG 퍼블릭 키: ***To be added...***
+[GPG 퍼블릭 키](publickey.cliid@protonmail.com-df0ad6e38df6471d0645514aac97edbc5512b790.asc)
 
 **[Session](https://getsession.io)** ID: **05fc1c63ad8cb22e9b7b616d60c43b1d8fa280e9e135879201470cfedc9c948f0b**
