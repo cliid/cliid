@@ -51,6 +51,6 @@ I'm **cliid**, a developer, writer, and a free software activist.
 Work E-mail: **[cliid@dazzle.works](mailto:cliid@dazzle.works)**<br/>
 Personal E-mail: **[cliid@pm.me](mailto:cliid@pm.me)**<br/>
 
-GPG Public Key: ***To be added...***
+[GPG Public Key](publickey.cliid@protonmail.com-df0ad6e38df6471d0645514aac97edbc5512b790.asc)
 
 **[Session](https://getsession.io)** ID: **05fc1c63ad8cb22e9b7b616d60c43b1d8fa280e9e135879201470cfedc9c948f0b**
