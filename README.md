@@ -1,6 +1,6 @@
 ### Hello there :)
 
-I'm **cliid**, a developer, writer, and a free software activist.
+I'm **cliid**, a developer, writer, and student.
 
 **[[한국어 ver.]](/README.ko.md)**
 
@@ -8,25 +8,23 @@ I'm **cliid**, a developer, writer, and a free software activist.
 
 - 🧑‍🎓 **[Hankuk Academy of Foreign Studies](http://hafs.hs.kr/?main) 18th**
 - 🏢 **Founded [@dazzleofficial](https://dazzle.works) with [@krrrr0](https://github.com/krrrr0)**
-- 🏅 **USACO 2021 Silver Division Qualified**
 #### My Interests
-- 🕊️ **I'm deeply interested in free software, which respects the user's freedom.**
-- 💻 **I'm very cautious on privacy. [Nothing to hide, nothing to fear... really?](https://spreadprivacy.com/three-reasons-why-the-nothing-to-hide-argument-is-flawed/)**
-- 🔥 **I *really* love Neovim + Programmer's Dvorak + Parabola GNU/Linux-libre.**
+- 🕊️ Free Software
+- 🔥 Competitive Programming
+- ⚙️ Customization (of everything)
 
 #### 🌐 Favorite Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
-
-#### 📚 Favorite Stack
-
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### ⌨️ Favorite Text Editor
 
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+#### 📚 Favorite Stack
+
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🔮 Projects
 
@@ -45,6 +43,14 @@ I'm **cliid**, a developer, writer, and a free software activist.
 | ✔️&nbsp;**rehype-twemojify** (2021) | An emoji-to-twemoji converter that runs on top of the unified ecosystem.<br/> **[[GitHub]](https://github.com/cliid/rehype-twemojify)** **[[How To Use]](https://cliid.dev/blog/integrating-twemoji-with-rehype)** | Me |
 
 **You can see the full portfolio on [cliid.dev](https://cliid.dev).**
+
+### 📊 Stats
+
+#### BOJ (handle: [cliid](https://solved.ac/profile/cliid))
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cliid)](https://solved.ac/profile/cliid)
+
+#### Codeforces (handle: [cliid](https://codeforces.com/profile/cliid))
+[![Codeforces Profile](http://cf.leed.at?id=cliid)](https://codeforces.com/profile/cliid)
 
 ### ☎️ Contacts
 
