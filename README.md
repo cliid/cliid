@@ -9,9 +9,10 @@ I'm **cliid**, a developer, writer, and student.
 - 🧑‍🎓 **[Hankuk Academy of Foreign Studies](http://hafs.hs.kr/?main) 18th**
 - 🏢 **Founded [@dazzleofficial](https://dazzle.works) with [@krrrr0](https://github.com/krrrr0)**
 #### My Interests
-- 🕊️ Free Software
-- 🔥 Competitive Programming
-- ⚙️ Customization (of everything)
+- 🕊️ **Free Software & Privacy**
+- 🔥 **Competitive Programming**
+- ⚙️ **Customizing Software**
+- 🔒  **Security Hardening**
 
 #### 🌐 Favorite Languages
 
