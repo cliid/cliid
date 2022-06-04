@@ -53,6 +53,15 @@ I'm **cliid**, a developer, writer, and student.
 #### Codeforces (handle: [cliid](https://codeforces.com/profile/cliid))
 [![Codeforces Profile](http://cf.leed.at?id=cliid)](https://codeforces.com/profile/cliid)
 
+### 🏆 Awards
+
+- USACO
+  - Silver Div. (2021)
+- KOI
+  - 중등부 1차 은상, 2차 동상 (2021)
+  - 고등부 1차 동상 (2022)
+- AIME Qualified (2019)
+
 ### ☎️ Contacts
 
 Work E-mail: **[cliid@dazzle.works](mailto:cliid@dazzle.works)**<br/>
