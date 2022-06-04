@@ -62,6 +62,10 @@ I'm **cliid**, a developer, writer, and student.
   - 고등부 1차 동상 (2022)
 - AIME Qualified (2019)
 
+### ⛳ Camps
+
+- KGSEA Math & Science Camp (2019)
+
 ### ☎️ Contacts
 
 Work E-mail: **[cliid@dazzle.works](mailto:cliid@dazzle.works)**<br/>
