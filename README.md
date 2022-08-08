@@ -2,7 +2,7 @@ Hello there, I'm **cliid**.
 
 I'm a software engineer, an entrepreneur, a designer, and a high school student at HAFS.
 
-I mainly do web development, but I do other things as well, such as planning software architectures or designing user interface.
+I mainly do web development, but I do other things as well, such as planning software architecture or designing user interface.
 
 #### Interests
 
@@ -24,6 +24,15 @@ I mainly do web development, but I do other things as well, such as planning sof
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 👨‍💻 Work Experience
+
+- **Internship @ 도구공간 (Dogugonggan)** — Aug. 2022
+  - Developed an interchangeable Speech-To-Text module for NVIDIA Jetson NX.
+  - Implemented providers for Google Cloud STT, Kakao i cloud STT, and KT Genie STT.
+  - Integrated with existing a Voice-Activity-Detector and an MQTT sender.
 
 ### 🔮 Main Projects
 
@@ -56,11 +65,6 @@ You can see my personal website and blog on **[cliid.dev](https://cliid.dev)**.
 ### ⛳ Camps
 
 - **KGSEA Math & Science Camp**
-
-### 👨‍💻 Work
-
-- **Internship @ 도구공간 (Dogugonggan)**:
-  - Developed an interchangeable Speech-To-Text module for NVIDIA Jetson NX.
   
 ### 📊 Statistics
 
