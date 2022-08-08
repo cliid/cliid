@@ -2,26 +2,28 @@ Hello there, I'm **cliid**.
 
 I'm a software engineer, an entrepreneur, a designer, and a high school student at HAFS.
 
-**[[Korean ver.]](/README.ko.md)**
+I mainly do web development, but I do other things as well, such as planning software architectures or designing user interface.
 
 #### Interests
+
 - ⚙️ **Algorithmic / Heuristic Optimization**
 - 🥞 **Scalable Infrastructure**
 - ⌨️ **Typography & Design**
+
+#### 📚 Favorite Stack
+
+![Remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 #### 🌐 Favorite Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 📚 Favorite Stack
-
-![Remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🔮 Main Projects
 
@@ -39,26 +41,34 @@ I'm a software engineer, an entrepreneur, a designer, and a high school student 
 | Name | Description | Developer(s) |
 |:----|:----|:----|
 | ✔️&nbsp;**rehype-twemojify** (2021) | An emoji-to-twemoji converter that runs on top of the unified ecosystem.<br/> **[[GitHub]](https://github.com/cliid/rehype-twemojify)** **[[How To Use]](https://cliid.dev/blog/integrating-twemoji-with-rehype)** | Me |
+| ✔️&nbsp;**smartquotes-ts** (2022) | A port of [smartquotes.js](https://github.com/kellym/smartquotes.js) to TypeScript.<br/> **[[GitHub]](https://github.com/cliid/smartquotes-ts)** | Me |
+|  | ***Work in Progress*** |
 
-**You can see my personal website on [cliid.dev](https://cliid.dev).**
+You can see my personal website and blog on **[cliid.dev](https://cliid.dev)**.
 
+### 🏆 Competitions
+
+- **USA Computing Olympiad (USACO)**: Silver Division
+- **Korea Olympiad in Informatics (KOI)**: Silver Medal
+- **American Mathematics Competitions (AMC)**: Certificate of Distinction
+- **Korea Code Fair Hackathon (KCF)**: Work In Progress
+
+### ⛳ Camps
+
+- **KGSEA Math & Science Camp**
+
+### 👨‍💻 Work
+
+- **Internship @ 도구공간 (Dogugonggan)**:
+  - Developed an interchangeable Speech-To-Text module for NVIDIA Jetson NX.
+  
 ### 📊 Statistics
 
-#### BOJ (handle: [cliid](https://solved.ac/profile/cliid))
+#### Baekjoon Online Judge (handle: [cliid](https://solved.ac/profile/cliid))
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cliid)](https://solved.ac/profile/cliid)
 
 #### Codeforces (handle: [cliid](https://codeforces.com/profile/cliid))
 [![Codeforces Profile](http://cf.leed.at?id=cliid)](https://codeforces.com/profile/cliid)
-
-### 🏆 Competitions
-
-- USACO Silver Div. (2021)
-- KOI Silver Medal (2021)
-- AIME Qualified (2019)
-
-### ⛳ Camps
-
-- KGSEA Math & Science Camp (2019)
 
 ### ☎️ Contacts
 
