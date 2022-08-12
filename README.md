@@ -4,6 +4,8 @@ I'm a software engineer, an entrepreneur, a designer, and a high school student 
 
 I mainly do web development, but I do other things as well, such as planning software architecture or designing user interface.
 
+_Read my CV at [read.cv](https://read.cv/cliiiid)!_
+
 #### Interests
 
 - ⚙️ **Algorithmic / Heuristic Optimization**
