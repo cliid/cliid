@@ -1,31 +1,6 @@
 Hello there, I'm **cliid**.
 
-I'm a software engineer, an entrepreneur, a designer, and a high school student at HAFS.
-
-I mainly do web development, but I do other things as well, such as planning software architecture or designing user interface.
-
-_Read my CV at [read.cv](https://read.cv/cliiiid)!_
-
-#### Interests
-
-- ⚙️ **Algorithmic / Heuristic Optimization**
-- 🥞 **Scalable Infrastructure**
-- ⌨️ **Typography & Design**
-
-#### 📚 Favorite Stack
-
-![Remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-#### 🌐 Favorite Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+I'm a software engineer, an entrepreneur, and a designer.
 
 #### 🔮 Main Projects
 
