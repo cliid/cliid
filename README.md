@@ -1,7 +1,3 @@
-Hello there, I'm **cliid**.
-
-I'm a software engineer, an entrepreneur, and a designer.
-
 #### 🔮 Main Projects
 
 | Name | Description | Developer(s) |
