@@ -13,5 +13,4 @@
 
 ### ☎️ Contacts
 
-E-mail: **[cliid@pm.me](mailto:cliid@pm.me)**<br/>
-LinkedIn: **[https://www.linkedin.com/in/jiwu-jang-26323a224/](https://www.linkedin.com/in/jiwu-jang-26323a224/)**<br/>
+Personal E-mail: cliid (at) pm (dot) me
